@@ -11,3 +11,8 @@ html {
 body {
     width: 100%;
 }
+
+#somme {
+    height: 60px;
+    width: 30px;
+}
